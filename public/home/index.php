@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php phpinfo ?>
+  Test for the PHP server
 </body>
 </html>
