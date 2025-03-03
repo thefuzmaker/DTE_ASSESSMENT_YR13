@@ -5,7 +5,7 @@
 ```bash
 git add .
 
-git commit -m "write a message"
+git commit -m "write a message about what you just did"
 
 git push
 
