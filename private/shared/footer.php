@@ -5,7 +5,7 @@
 		 Date:	 March 2025
 		============================== -->
 
-<link href="../../public/_stylesheet/stylesheet.css" rel="stylesheet">
+<link href="../../public/stylesheet/_styles.css" rel="stylesheet">
     <footer class="max">
 			<div>
 				<p class="footertxt">

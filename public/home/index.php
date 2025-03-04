@@ -7,10 +7,9 @@
 
 <!--import the initialize-->
 <?php require_once('../../private/initialize.php') ?>
+<?php include(SHARED_PATH . '/header.php') ?>
 <!--title of homepage-->
 <!--link stylesheet and import header-->
 <link href="_stylesheet.css" rel="stylesheet">
-<?php include(SHARED_PATH . '/header.php') ?> 
-
 <!--import the footer-->
 <?php include(SHARED_PATH . '/footer.php') ?> 

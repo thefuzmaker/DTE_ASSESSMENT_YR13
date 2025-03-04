@@ -7,7 +7,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<link href='../../public/_stylesheet/styles.css' rel="stylesheet">
+<link href='../../public/stylesheet/_styles.css' rel="stylesheet">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
