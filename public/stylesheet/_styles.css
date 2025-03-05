@@ -1,0 +1,260 @@
+.nav{
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    padding:0;
+}
+
+.navbar{
+  display:flex;
+  justify-content:space-around;
+  flex-direction: row;
+  padding:0;
+}
+
+li{
+  margin:auto 14px auto 14px;
+  padding:0;
+}
+
+.nav_button{
+  color:#0054a2;
+  text-decoration:0;
+  font-size:10pt;
+}
+
+.logo_img{
+  width:253px;
+  height:87px;
+}
+
+.nav_button:hover{
+  color:#33a0ff;
+}
+
+header{
+  display:flex;
+  justify-content:space-around;
+  background-color:#ffffff;
+}
+
+footer{
+  padding:18px 0px 18px 0px;
+  background-color:#0054a2;
+}
+
+.maintext{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+  align-items:flex-start;
+  margin: 55px;
+  flex-wrap: wrap;
+}
+
+.quote{
+  display:flex;
+  justify-content: center;
+}
+
+
+.max{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+  align-items:flex-start;
+}
+
+.logo{
+  display:flex;
+  flex-direction:row;
+  padding:15px;
+  }
+
+.headertext{
+  padding:15px 0px 0px 13px;;
+  color:#ffffff;
+  font-family:math;
+  font-size: 20pt;
+  margin-right:30px;
+}
+
+.w-100{
+  width: 100%;
+  height:620px;
+  object-fit: cover;
+}
+
+.prompt{
+  display:flex;
+  flex-direction:column;
+  justify-content:space-around;
+  
+}
+
+.field{
+  height:32px;
+  width:270px;
+  padding-top:0px;
+}
+
+.label{
+  font-weight: bold;
+  padding:5px;
+  font-size:11pt
+  
+}
+
+.login{
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  padding:0px;
+  margin:0px;
+}
+
+.input1{
+  display:flex;
+  justify-content:flex-start;
+  padding:0px 0px 16px 50px;
+}
+
+.modal-footer{
+  padding:10px;
+}
+
+.modal-body{
+  padding:16px 16px 10px 16px;
+}
+
+.align{
+  display:flex;
+  flex-direction:column;
+}
+
+.login_section{
+  display:flex;
+  justify-content:flex-end;
+  padding:10px;
+}
+
+.headings{
+  background-color: #0054a2;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  border-top: 2px #e6e8e6 solid;
+  border-bottom:2px #e6e8e6 solid;
+}
+
+.sportsimages{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.sports_image{
+  margin: auto;
+}
+.basketball_image{
+  object-fit: cover;
+}
+
+.sports_text{
+  display: flex;
+  flex-direction: column;
+  margin: 55px;
+}
+
+.staffintro{
+  display: flex;
+  justify-content: center;
+}
+
+.staffthingy{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.staffrow1{
+  display: flex;
+  margin: 30px;
+  justify-content: space-evenly;
+}
+.footertxt{
+  color: #FFFFFF;
+}
+.dummytitle{
+  display: flex;
+  justify-content: center;
+}
+
+/*Login Modal*/
+
+.modal-contento {
+  display: flex;
+  background-clip: padding-box;
+  outline: 0;
+  flex-direction: row;
+  background-color: #edeff0;
+  justify-content: center;
+}
+
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.adjustplace{
+  display: flex;
+  
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.myBtn{	
+  border-radius: 15px;	
+  border-width: 0px;	width: 150px;
+}
+
+.myBtn:hover {
+  background-color: #dbdbdb;	
+}
+
+.logh1{	
+  font-family: Arial;
+}
+
+body{	
+  font-family: 'Arial', sans-serif;
+  
+}
+.label{	width: 100px;	
+  text-align: right;	
+  display: inline-block;	
+  vertical-align: top;	
+  font-family: 'Arial Black', sans-serif;
+}
+  
+.field, textarea{	
+  margin-left: 5px;	
+  border-radius: 5px;	
+  background-color: #ffccff;	
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;	
+  width:200px;
+}
+
+.loginportal{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
