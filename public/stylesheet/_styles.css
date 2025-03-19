@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.titletxt{
+  text-align: center;
+  font-size: larger;
+}
+
 li{
   margin:auto 14px auto 14px;
   padding:0;
@@ -11,10 +16,6 @@ li{
 ul{
   padding-left: 100px;
   padding-right: 100px;
-}
-
-.titletxt{
-  font-size: medium;
 }
 
 .nav{

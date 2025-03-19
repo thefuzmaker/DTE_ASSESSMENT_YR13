@@ -4,8 +4,9 @@
 		 Author: Max William
 		 Date:	 March 2025
 		============================== -->
-
+		<!-- link stylesheet -->
 <link href="../../public/stylesheet/_styles.css" rel="stylesheet">
+		<!-- create the footer of all the pages -->
     <footer class="max">
 			<div>
 				<p class="footertxt">
@@ -13,7 +14,7 @@
 				<br>
 				Phone: +64 9 489 5417
 					<br>
-				admin@rosmini.school.nz
+				volunteer@rosmini.school.nz
 				</p>
 			</div>
 			<div>
