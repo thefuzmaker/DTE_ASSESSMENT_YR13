@@ -1,26 +1,39 @@
-.nav{
-    display: flex;
-    justify-content:space-around;
-    flex-direction: row;
-    padding:0;
-}
-
-.navbar{
-  display:flex;
-  justify-content:space-around;
-  flex-direction: row;
-  padding:0;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 li{
   margin:auto 14px auto 14px;
   padding:0;
 }
+ul{
+  padding-left: 100px;
+  padding-right: 100px;
+}
 
+.titletxt{
+  font-size: medium;
+}
+
+.nav{
+  display: flex;
+  list-style-type: none;
+  padding: 10px;
+}
+.navbar{
+  display: flex;
+
+}
 .nav_button{
   color:#0054a2;
   text-decoration:0;
-  font-size:10pt;
+  font-size:13pt;
+}
+
+.nav_button:hover{
+  color:#33a0ff;
 }
 
 .logo_img{
@@ -28,24 +41,19 @@ li{
   height:87px;
 }
 
-.nav_button:hover{
-  color:#33a0ff;
-}
-
 header{
   display:flex;
-  justify-content:space-around;
+  justify-content:left;
   background-color:#ffffff;
 }
 
 footer{
-  padding:18px 0px 18px 0px;
+  padding:18px 0;
   background-color:#0054a2;
 }
 
 .maintext{
   display:flex;
-  flex-direction:row;
   justify-content:space-around;
   align-items:flex-start;
   margin: 55px;
@@ -60,23 +68,19 @@ footer{
 
 .max{
   display:flex;
-  flex-direction:row;
   justify-content:space-around;
   align-items:flex-start;
 }
 
 .logo{
   display:flex;
-  flex-direction:row;
   padding:15px;
   }
 
 .headertext{
-  padding:15px 0px 0px 13px;;
   color:#ffffff;
-  font-family:math;
-  font-size: 20pt;
-  margin-right:30px;
+  font-family:unset;
+  font-size: 26pt;
 }
 
 .w-100{
@@ -95,36 +99,12 @@ footer{
 .field{
   height:32px;
   width:270px;
-  padding-top:0px;
-}
-
-.label{
-  font-weight: bold;
-  padding:5px;
-  font-size:11pt
-  
-}
-
-.login{
-  display:flex;
-  flex-direction:column;
-  justify-content:space-between;
-  padding:0px;
-  margin:0px;
 }
 
 .input1{
   display:flex;
   justify-content:flex-start;
-  padding:0px 0px 16px 50px;
-}
-
-.modal-footer{
-  padding:10px;
-}
-
-.modal-body{
-  padding:16px 16px 10px 16px;
+  padding:0 0 16px 50px;
 }
 
 .align{
@@ -166,17 +146,6 @@ footer{
   margin: 55px;
 }
 
-.staffintro{
-  display: flex;
-  justify-content: center;
-}
-
-.staffthingy{
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-}
-
 .staffrow1{
   display: flex;
   margin: 30px;
@@ -190,21 +159,9 @@ footer{
   justify-content: center;
 }
 
-/*Login Modal*/
-
-.modal-contento {
-  display: flex;
-  background-clip: padding-box;
-  outline: 0;
-  flex-direction: row;
-  background-color: #edeff0;
-  justify-content: center;
-}
-
-
 .close {
   color: #aaa;
-  float: right;
+  align-self: flex-end;
   font-size: 28px;
   font-weight: bold;
 }
@@ -223,7 +180,7 @@ footer{
 
 .myBtn{	
   border-radius: 15px;	
-  border-width: 0px;	width: 150px;
+  width: 150px;
 }
 
 .myBtn:hover {
@@ -234,15 +191,10 @@ footer{
   font-family: Arial;
 }
 
-body{	
-  font-family: 'Arial', sans-serif;
-  
-}
 .label{	width: 100px;	
   text-align: right;	
   display: inline-block;	
   vertical-align: top;	
-  font-family: 'Arial Black', sans-serif;
 }
   
 .field, textarea{	
@@ -253,8 +205,6 @@ body{
   width:200px;
 }
 
-.loginportal{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+body, .label{
+  font-family: 'Arial', sans-serif;
 }
