@@ -5,8 +5,12 @@
 }
 
 .titletxt{
-  text-align: center;
+  padding-left: 40px;
   font-size: larger;
+}
+.ptxt{
+  font-size: medium;
+  padding-left: 96px;
 }
 
 li{
@@ -35,6 +39,10 @@ ul{
 
 .nav_button:hover{
   color:#33a0ff;
+}
+
+.list_images{
+  display: flex;
 }
 
 .logo_img{
@@ -113,11 +121,6 @@ footer{
   flex-direction:column;
 }
 
-.login_section{
-  display:flex;
-  justify-content:flex-end;
-  padding:10px;
-}
 
 .headings{
   background-color: #0054a2;
@@ -128,30 +131,6 @@ footer{
   border-bottom:2px #e6e8e6 solid;
 }
 
-.sportsimages{
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.sports_image{
-  margin: auto;
-}
-.basketball_image{
-  object-fit: cover;
-}
-
-.sports_text{
-  display: flex;
-  flex-direction: column;
-  margin: 55px;
-}
-
-.staffrow1{
-  display: flex;
-  margin: 30px;
-  justify-content: space-evenly;
-}
 .footertxt{
   color: #FFFFFF;
 }

@@ -26,9 +26,9 @@
 		<ul class="nav">
 			<!-- link all the pages togethere with buttons in the nav bar -->
   			<li><a href="../../public/home/index.php"	class="nav_button">Home</a></li>
-  			<li><a href="../../public/sports/sports.php"  class="nav_button">Young Vinnies</a></li>
-  			<li><a href="../../public/staff/staff.php"  class="nav_button">Around the community</a></li>
-  			<li><a href="../../public/dummy/dummypage.php"  class="nav_button">Daily news</a></li>
+  			<li><a href="../../public/young_vinnies/young_vinnies.php"  class="nav_button">Young Vinnies</a></li>
+  			<li><a href="../../public/sva/sva.php"  class="nav_button">Student Volunteer Army</a></li>
+  			<li><a href="../../public/around_the_community/around_the_community.php"  class="nav_button">Around the Community</a></li>
 			<li><a href="../../public/dummy/dummypage.php"  class="nav_button">Information</a></li>
 			<li><a href="../../public/dummy/dummypage.php"  class="nav_button">How to contact</a></li>
 			<li><a href="../../public/dummy/dummypage.php"  class="nav_button">Start your volunteering Journey</a></li>

@@ -8,7 +8,7 @@
 		<!--import the initialize-->
 <?php require_once('../../private/initialize.php') ?>
 		<!--title of homepage-->
-<title>The Rosmini Food Drive Hub</title>
+<title>The Rosmini volunteer page</title>
 		<!--link stylesheet and import header-->
 <link href="_stylesheet.css" rel="stylesheet">
 <?php include(SHARED_PATH . '/header.php') ?>
@@ -20,15 +20,18 @@
 Rosmini College is a Catholic Boys’ School founded by the Rosminian order to provide a Catholic education to young men on Auckland’s North Shore. We aim to shape them into well-rounded young men ready to leave school who are able to make a positive contribution to society and are empowered to serve others by living out the founder’s maxims.
 		</p>
 		<!-- List of the things we do -->
-		<ul>
-			<li><p>Mission: Rosmini College supports and develops well-rounded young men while keeping true to the maxims of Antonio Rosmini.  A holistic education in the Rosminian tradition that fosters a genuine encounter with Christ.</p></li>
+		<div class="list_images">
+			<ul>
+				<li><p>Mission: Rosmini College supports and develops well-rounded young men while keeping true to the maxims of Antonio Rosmini.  A holistic education in the Rosminian tradition that fosters a genuine encounter with Christ.</p></li>
 
-			<li><p>Vision: Christ-centred young men who have the values, attitudes, knowledge and skills to fulfil their life and be empowered to serve others.</p></li>
+				<li><p>Vision: Christ-centred young men who have the values, attitudes, knowledge and skills to fulfil their life and be empowered to serve others.</p></li>
 
-			<li><p>Values: Dignity. Integrity. Fairness. Charity. Justice</p></li>
+				<li><p>Values: Dignity. Integrity. Fairness. Charity. Justice</p></li>
 
-			<li><p>Motto: Charity fulfils the law.</p></li>
-		</ul>
+				<li><p>Motto: Charity fulfils the law.</p></li>
+			</ul>
+			<img src="../images/antonio.jpg" class="sports_image" alt="antonio" width="200" height="230" style="padding-right: 30;">
+		</div>
 		<section>
 			<p class="titletxt">
 Rosmini has many service oppertunities and communities like RVA (Rosmini volunteer army) and Young Vinnies where the brothers here in Rosmini can help around in their community to make their community a better place
