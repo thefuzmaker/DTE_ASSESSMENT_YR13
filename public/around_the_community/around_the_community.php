@@ -10,7 +10,7 @@
 		<!--title of homepage-->
 <title>Around the Community</title>
 		<!--link stylesheet and import header-->
-<link href="_stylesheet.css" rel="stylesheet">
+
 <?php include(SHARED_PATH . '/header.php') ?>
 		<!--the main text of the homepage-->
 <div class="maintext">

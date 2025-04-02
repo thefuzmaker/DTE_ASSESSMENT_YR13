@@ -9,8 +9,6 @@
 <?php require_once('../../private/initialize.php') ?>
 		<!--title of homepage-->
 <title>The Rosmini volunteer page</title>
-		<!--link stylesheet and import header-->
-<link href="_stylesheet.css" rel="stylesheet">
 <?php include(SHARED_PATH . '/header.php') ?>
 		<!--the main text of the homepage-->
 <div class="maintext">

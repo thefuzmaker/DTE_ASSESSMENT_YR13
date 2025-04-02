@@ -12,7 +12,7 @@
         <!-- Coming Soon -->
 <title>Rosmini College</title>
 		<!-- import the header and stylesheet-->
-<link href="../stylesheet/_stylesheet.css" rel="stylesheet">
+
 <?php include(SHARED_PATH . '/header.php') ?> 
         <!-- Make the page where it will say coming soon -->
 <br>
