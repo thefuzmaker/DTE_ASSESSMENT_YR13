@@ -22,6 +22,11 @@ ul{
   padding-right: 100px;
 }
 
+.seperate{
+    margin-top: 45px;
+    margin-bottom: 45px ;
+}
+
 .nav{
   display: flex;
   list-style-type: none;
