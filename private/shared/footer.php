@@ -5,9 +5,9 @@
 		 Date:	 March 2025
 		============================== -->
 		<!-- link stylesheet -->
-<link href="../../public/stylesheet/_styles.css" rel="stylesheet">
+
 		<!-- create the footer of all the pages -->
-    <footer class="max">
+    <foote2r class="max">
 			<div>
 				<p class="footertxt">
 				Contact Us

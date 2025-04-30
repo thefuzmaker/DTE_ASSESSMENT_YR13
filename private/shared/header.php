@@ -10,12 +10,17 @@
 <head>
     <!-- link the stylesheet -->
     <link href="../../public/stylesheet/styles.css" rel="stylesheet">
+    <script src="../../public/javascript/loader.js" defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Rosminian Project Website">
     <title>Rosminian Project</title>
 </head>
 <body>
+    <!-- Loading Screen -->
+    <div id="loading-screen">
+        <div class="loader"></div>
+    </div>
     <!-- Create the header for all pages -->
     <header>
         <nav class="navbar">
@@ -35,6 +40,7 @@
             </ul>
         </nav>
     </header>
+
 <!-- Main Content Area -->
 <div class="content">
 		 	<!-- Default page loaded on startup -->
