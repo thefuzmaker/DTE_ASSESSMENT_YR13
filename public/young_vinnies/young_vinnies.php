@@ -19,13 +19,14 @@
         <h1>
             Young Vinnies
         </h1>
-		<p>
+		<p class="ptxt">
         Young Vinnies is the Youth Arm of the St Vincent De Paul Society who are active worldwide in support of those who are in need, regardless of colour, creed or race. It has been operating since it was reintroduced successfully into the College in 2014. It has continued to thrive and  year upon year produces members and Leaders who are motivated by and continue to ensure that by their actions "Charity will fulfill the Law".
 
 Rosmini's Young Vinnies are required to do 20 hours of service before they receive their badges. They are able to do this through the following Ministries that we have operating within the College. Once badged they must continue to be actively involved in the Ministries of their choice and consider a Leadership role if it is offered.
 		</p>
 		<!-- List of the things Young Vinnies do -->
-		<div class=>
+		<div class="seperate">
+			<p class="ptxt">These ministries include:-</p>
 			<ul>
                 <li><p>Op Shop:- (3) Ministry to SVDP Op Shops on the North Shore, namely at Beachaven and Glenfield. Our students volunteer to do a shift on Saturdays and also avail themselves of shifts during the holidays. This Ministry is to be further extended to include helping to pack food parcels for which there has been a huge increase in demand for, because of Covid 19 and those who have been made unemployed.</p></li>
 
@@ -37,7 +38,7 @@ Rosmini's Young Vinnies are required to do 20 hours of service before they recei
 			</ul>
 		</div>
         <div>
-            <p>
+            <p class="ptxt">
             Young Vinnies at Rosmini College in Auckland is a vibrant youth initiative under the St Vincent de Paul Society, dedicated to serving those in need. Since its reintroduction in 2014, the program has thrived, encouraging students to embody the spirit of charity through various ministries. Participants engage in meaningful activities such as supporting refugees and families at De Paul House, assisting the elderly, volunteering at local op shops, and preparing meals for the City Mission. They also organize annual drives for food, clothing, and Christmas cheer to aid vulnerable communities. With a commitment to service and leadership, Rosmini's Young Vinnies exemplify the school's motto, "Charity Fulfils the Law"
             </p>
         </div>

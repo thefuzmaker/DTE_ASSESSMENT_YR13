@@ -30,7 +30,19 @@ Rosmini College is a Catholic Boys’ School founded by the Rosminian order to p
 			</ul>
 			<img src="../images/antonio.jpg" class="sports_image" alt="antonio" width="200" height="230" style="padding-right: 30;">
 		</div>
-		<section>
+		<div>
+			<p class="ptxt">The Rosminian Project: Serving with Purpose
+The Rosminian Project is inspired by the life and teachings of Blessed Antonio Rosmini, a Catholic priest and philosopher who believed that faith must be lived through action. At its heart, the project encourages individuals—especially those within Rosmini communities—to serve others with compassion, humility, and love.
+
+Rosmini’s guiding principle, “charity in all things,” continues to shape the mission of Rosminian schools, parishes, and organizations around the world. Service is not seen as an obligation, but as a meaningful way to grow in faith and contribute to the common good. Whether it’s students volunteering in their local community, teachers mentoring youth, or parishioners supporting the elderly, every act of kindness reflects Rosmini’s belief in the dignity of each person.
+
+The project also emphasizes the development of servant leadership. In Rosminian schools, young people are encouraged to lead by example, using their talents to uplift others and create positive change. Service is woven into the culture of these institutions, forming students not just academically, but morally and spiritually.
+
+Globally, the Rosminian Project connects people across cultures through a shared commitment to justice, compassion, and solidarity. From Tanzania to New Zealand, Rosminians are working to build communities rooted in faith and service.
+
+In a world that often promotes self-interest, the Rosminian Project offers a powerful alternative: a life of purpose, generosity, and hope.</p>
+		</div>
+		<div>
 			<p class="titletxt">
 Rosmini has many service oppertunities and communities like RVA (Rosmini volunteer army) and Young Vinnies where the brothers here in Rosmini can help around in their community to make their community a better place
 			</p>
@@ -44,7 +56,7 @@ Rosmini has many service oppertunities and communities like RVA (Rosmini volunte
 
 			<li><p>Student librarians	:-	Student librarians  is a student led club where they have people stationed around the library and monitor, tidy up and be available in the library to their brothers. Their badge can be obtained at any time after service.</p></li>
 		</ul>
-		</section>
+		</div>
 	</section>
 
 </div>
