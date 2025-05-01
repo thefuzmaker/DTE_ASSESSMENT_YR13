@@ -26,7 +26,7 @@
         <nav class="navbar">
             <div class="logo">
                 <!-- Link the Rosmini logo -->
-                <img src="../../public/images/rosmini-logo.png" class="logo_img" alt="Rosmini School Logo">
+                <img src="https://f005.backblazeb2.com/file/imgae-grab/antonio.jpg" class="logo_img" alt="Rosmini School Logo">
             </div>        
             <ul class="nav">
                 <!-- Link all the pages together with buttons in the navbar -->
