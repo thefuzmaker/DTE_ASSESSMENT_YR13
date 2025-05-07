@@ -4,23 +4,20 @@
     Author: Max William
     Date:    March 2025
 ============================== -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <!-- link the stylesheet -->
     <link href="../../public/stylesheet/styles.css" rel="stylesheet">
     <script src="../../public/javascript/loader.js" defer></script>
-
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Rosminian Project Website">
     <title>Rosminian Project</title>
 </head>
 <body>
-    <?php require('../dbconn.php');
-    require_once('initialize.php')
-    ?>
+
     <!-- Loading Screen -->
     <div id="loading-screen">
         <div class="loader"></div>
