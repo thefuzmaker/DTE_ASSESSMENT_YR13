@@ -7,7 +7,7 @@
 		<!-- link stylesheet -->
 
 		<!-- create the footer of all the pages -->
-    <foote2r class="max">
+    <footer class="max">
 			<div>
 				<p class="footertxt">
 				Contact Us

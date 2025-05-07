@@ -4,6 +4,17 @@
     Author: Max William
     Date:    March 2025
 ============================== -->
+
+<?php
+$sql = "SELECT * FROM images";
+ 
+	// SQL query to fetch data from the table
+	$result = $conn->query($sql);
+    $row1 = $result->fetch_assoc();
+
+ 
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,7 +38,7 @@
         <nav class="navbar">
             <div class="logo">
                 <!-- Link the Rosmini logo -->
-                <img src="https://f005.backblazeb2.com/file/imgae-grab/antonio.jpg" class="logo_img" alt="Rosmini School Logo">
+                <img src="<?php echo htmlspecialchars($row1["image_url"])?>" class="logo_img" alt="Rosmini School Logo">
             </div>        
             <ul class="nav">
                 <!-- Link all the pages together with buttons in the navbar -->

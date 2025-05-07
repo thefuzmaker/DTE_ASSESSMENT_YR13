@@ -14,6 +14,7 @@
 <div class="maintext">
 		<!-- what we do + more information -->
 	<section>
+
 		<p class="titletxt">
 Rosmini College is a Catholic Boys’ School founded by the Rosminian order to provide a Catholic education to young men on Auckland’s North Shore. We aim to shape them into well-rounded young men ready to leave school who are able to make a positive contribution to society and are empowered to serve others by living out the founder’s maxims.
 		</p>
@@ -61,4 +62,4 @@ Rosmini has many service oppertunities and communities like RVA (Rosmini volunte
 
 </div>
 		<!--import the footer-->
-<?php include(SHARED_PATH . '/footer.php') ?> 
+<?php include(SHARED_PATH . './footer.php') ?> 
