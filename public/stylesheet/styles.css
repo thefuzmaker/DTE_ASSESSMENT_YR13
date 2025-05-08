@@ -11,6 +11,7 @@
 .ptxt{
   font-size: medium;
   padding-left: 96px;
+  padding-top: 10px;
 }
 
 li{
@@ -76,6 +77,10 @@ footer{
   align-items:flex-start;
   margin: 55px;
   flex-wrap: wrap;
+}
+
+.half_body{
+  display: flex;
 }
 
 .quote{
