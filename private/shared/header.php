@@ -11,10 +11,14 @@ $sql = "SELECT * FROM images";
 	// SQL query to fetch data from the table
 	$result = $conn->query($sql);
     $row1 = $result->fetch_assoc();
-
- 
-
+    $row2 = $result->fetch_assoc();
+    $row3 = $result->fetch_assoc();
+    $row4 = $result->fetch_assoc();
+    $row5 = $result->fetch_assoc();
+    $row6 = $result->fetch_assoc();
+    $row7 = $result->fetch_assoc();
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,7 +42,7 @@ $sql = "SELECT * FROM images";
         <nav class="navbar">
             <div class="logo">
                 <!-- Link the Rosmini logo -->
-                <img src="<?php echo htmlspecialchars($row1["image_url"])?>" class="logo_img" alt="Rosmini School Logo">
+                <img src="<?php echo htmlspecialchars($row2["image_url"])?>" class="logo_img" alt="Rosmini School Logo">
             </div>        
             <ul class="nav">
                 <!-- Link all the pages together with buttons in the navbar -->

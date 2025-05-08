@@ -29,7 +29,7 @@ Rosmini College is a Catholic Boys’ School founded by the Rosminian order to p
 
 				<li><p>Motto: Charity fulfils the law.</p></li>
 			</ul>
-			<img src="../images/antonio.jpg" class="sports_image" alt="antonio" width="200" height="230" style="padding-right: 30;">
+			<img src="<?php echo htmlspecialchars($row1["image_url"])?>" alt="antonio" width="200" height="230" style="padding-right: 30;">
 		</div>
 		<div>
 			<p class="ptxt">The Rosminian Project: Serving with Purpose

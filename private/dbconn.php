@@ -13,14 +13,3 @@ if ($conn->connect_error) {
 }
 echo "Connected successfully";
 ?>
-
-<?php
-$sql = "SELECT * FROM images";
- 
-	// SQL query to fetch data from the table
-	$result = $conn->query($sql);
-    $row1 = $result->fetch_assoc();
-    echo $row1["image_id"]
- 
-
-?>
