@@ -49,20 +49,22 @@ Rosmini's Young Vinnies are required to do 20 hours of service before they recei
         </div>
 	</section>
 	<section>
+		<h1>The Young Vinnies Leaders 2024</h1>
 		<div class="half_body">
-			<p class="ptxt">
-			In 2024, Rosmini College's Young Vinnies leadership team demonstrated exceptional dedication and service, continuing the group's mission to support those in need. Under the guidance of leaders Dani Mathew, TJ Tecson, Radeesha de Silva, and Kevin Vinish, the team effectively coordinated various initiatives, including Eddie's Meals, supporting local op shops, organizing food drives, and volunteering at community events. Their efforts were recognized with certificates from the Society of St Vincent de Paul, highlighting their commitment to living out the school's motto, "Charity Fulfils the Law."
-			<br>
-			A notable achievement during their tenure was the collaboration with Carmel College for the Travelling Pots ministry, where students prepared and delivered 86 meals to the St Vincent de Paul foodbank. Additionally, the leadership team celebrated the feast day of St Vincent de Paul at St Patrick's Cathedral, receiving recognition for their service to both the school and the wider community.
-			<br>
-			As the year concluded, the leadership baton was passed to the 2025 team: Jairus Joseph, Theodore Chan, Santino Rodriguez, and Coen Tyler. The 2024 leaders' unwavering commitment ensured that Rosmini College's Young Vinnies continued to embody the spirit of charity and service. 
-			</p>
-			<div>
-				<h1>The Young Vinnies Leaders 2024</h1>
-				<img src="<?php echo htmlspecialchars($row6["image_url"])?>" alt="Young Vinnies Leader photo" width="100%" height="100%">
-			</div>
+			<div class="container_1">
+				<p class="ptxt">
+				In 2024, Rosmini College's Young Vinnies leadership team demonstrated exceptional dedication and service, continuing the group's mission to support those in need. Under the guidance of leaders Dani Mathew, TJ Tecson, Radeesha de Silva, and Kevin Vinish, the team effectively coordinated various initiatives, including Eddie's Meals, supporting local op shops, organizing food drives, and volunteering at community events. Their efforts were recognized with certificates from the Society of St Vincent de Paul, highlighting their commitment to living out the school's motto, "Charity Fulfils the Law."
+				</p>
+				<p class="ptxt">
+				A notable achievement during their tenure was the collaboration with Carmel College for the Travelling Pots ministry, where students prepared and delivered 86 meals to the St Vincent de Paul foodbank. Additionally, the leadership team celebrated the feast day of St Vincent de Paul at St Patrick's Cathedral, receiving recognition for their service to both the school and the wider community.
+				</p>
+				<p class="ptxt">
+				As the year concluded, the leadership baton was passed to the 2025 team: Jairus Joseph, Theodore Chan, Santino Rodriguez, and Coen Tyler. The 2024 leaders' unwavering commitment ensured that Rosmini College's Young Vinnies continued to embody the spirit of charity and service. 
+				</p>
+				</div>
+				<img src="<?php echo htmlspecialchars($row6["image_url"])?>" alt="Young Vinnies Leader photo" class="YVLP">
 		</div>
 	</section>
 </div>
 		<!--import the footer-->
-<?php include(SHARED_PATH . '/footer.php') ?> 
+<?php include(SHARED_PATH . '/footer.php')?> 

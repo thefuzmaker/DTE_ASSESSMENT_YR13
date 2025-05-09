@@ -14,6 +14,10 @@
   padding-top: 10px;
 }
 
+.container_1{
+  max-width:900px;
+}
+
 li{
   margin:auto 14px auto 14px;
   padding:0;
@@ -33,12 +37,23 @@ ul{
   list-style-type: none;
   padding: 10px;
 }
+
+.footerlink{
+  list-style-type: none;
+}
 .navbar{
   display: flex;
-
+}
+.footerbar{
+  display:flex;
 }
 .nav_button{
   color:#0054a2;
+  text-decoration:0;
+  font-size:13pt;
+}
+.footer_button{
+  color: #FFFFFF;
   text-decoration:0;
   font-size:13pt;
 }
@@ -49,6 +64,7 @@ ul{
 
 .list_images{
   display: flex;
+  padding-left: 100px;
 }
 
 .logo_img{
@@ -81,6 +97,12 @@ footer{
 
 .half_body{
   display: flex;
+  justify-content:space-around;
+  width:100%;
+}
+
+.YVLP{
+  max-height:350px;
 }
 
 .quote{
@@ -100,6 +122,9 @@ footer{
   padding:15px;
   }
 
+  section{
+    width:100%
+  }
 .headertext{
   color:#ffffff;
   font-family:unset;

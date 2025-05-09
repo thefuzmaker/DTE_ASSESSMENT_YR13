@@ -20,6 +20,7 @@ Rosmini College is a Catholic Boys’ School founded by the Rosminian order to p
 		</p>
 		<!-- List of the things we do -->
 		<div class="list_images">
+			<img src="<?php echo htmlspecialchars($row1["image_url"])?>" alt="antonio" width="200" height="230" style="padding-right: 30;">
 			<ul>
 				<li><p>Mission: Rosmini College supports and develops well-rounded young men while keeping true to the maxims of Antonio Rosmini.  A holistic education in the Rosminian tradition that fosters a genuine encounter with Christ.</p></li>
 
@@ -29,7 +30,6 @@ Rosmini College is a Catholic Boys’ School founded by the Rosminian order to p
 
 				<li><p>Motto: Charity fulfils the law.</p></li>
 			</ul>
-			<img src="<?php echo htmlspecialchars($row1["image_url"])?>" alt="antonio" width="200" height="230" style="padding-right: 30;">
 		</div>
 		<div>
 			<p class="ptxt">The Rosminian Project: Serving with Purpose
@@ -59,6 +59,7 @@ Rosmini has many service oppertunities and communities like RVA (Rosmini volunte
 		</ul>
 		</div>
 	</section>
+	<img src="<?php echo htmlspecialchars($row7["image_url"])?>" alt="The community of Rosmini College	" >
 
 </div>
 		<!--import the footer-->
