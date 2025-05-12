@@ -17,6 +17,7 @@ $sql = "SELECT * FROM images";
     $row5 = $result->fetch_assoc();
     $row6 = $result->fetch_assoc();
     $row7 = $result->fetch_assoc();
+    $row8 = $result->fetch_assoc();
 ?>
 
 <!DOCTYPE html>
@@ -49,7 +50,7 @@ $sql = "SELECT * FROM images";
                 <li><a href="../../public/home/index.php" class="nav_button">Home</a></li>
                 <li><a href="../../public/young_vinnies/young_vinnies.php" class="nav_button">Young Vinnies</a></li>
                 <li><a href="../../public/sva/sva.php" class="nav_button">Student Volunteer Army</a></li>
-                <li><a href="../../public/around_the_community/around_the_community.php" class="nav_button">Around the Community</a></li>
+                <li><a href="../../public/dummy/dummypage.php" class="nav_button">Around the Community</a></li>
                 <li><a href="../../public/dummy/dummypage.php" class="nav_button">Information</a></li>
                 <li><a href="../../public/dummy/dummypage.php" class="nav_button">How to contact</a></li>
                 <li><a href="../../public/dummy/dummypage.php" class="nav_button">Start your Volunteering Journey</a></li>
